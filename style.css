@@ -322,7 +322,7 @@ footer{
 .mensagem{
     display: flex;
     position: fixed;
-    bottom: 0;
+    bottom: 3px;
     padding: 10px;
     font-family: sans-serif;
     z-index: 2;
