@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dosis:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+/* Tabelas de cores:
+div Purple: 9A57B0
+Card: FBAA00
+Card Final: 003366
+*/
+body{
+    background-color: #FBDC04;
+}
+img{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+header h3{
+    font-family: sans-serif;
+}
+section{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.logo{
+    max-width: 150px;
+    padding: 5px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 8px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.link:hover{
+    background-color: rgba(0, 0, 0, 0.151);
+    color: white;
+}
+/* The end Top and Configure */
+
+/* Start banner */
+.relativeBox{
+    width: 100%;
+    position: relative;
+}
+.titulo{
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+@media (min-width: 985px){
+    .titulo{
+        font-size: 61px;
+        font-weight: 800;
+    }
+    .paragrafTitle{
+        font-size: 25px;
+    }
+}
+.paragrafTitle{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.banner{
+    width: 100%;
+    max-width: 1024px;
+}
+.boxAbsolute{
+    width: 100%;
+    max-width: 500px;
+    position: absolute;
+    top: 15%;
+    left: 13%;
+}
+/* The end Primary Section */
+
+/* Start Section second */
+
+@media (min-width: 950px){
+    .absoluteBox{
+        position: absolute;
+        right: 34%;
+        top: 0%;
+    }
+    .absoluteBox p{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: white;
+        font-size: x-large;
+    }
+    .absoluteBox h2{
+      font-family: "Poppins", serif;
+      font-weight: 500 !important;
+      font-style: normal;
+      color: white;
+      text-shadow: 1px 1px 8px black;
+      font-size: 86px;
+    }
+}
+
+.sobre{
+    padding: 8px;
+}
+.sobre h2{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.sobre p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+    line-height: 25px;
+    padding-bottom: 15px;
+}
+/* The end Second Section */
+
+/* Start Tercery Section */
+
+.cardPurple{
+    background-color: #9A57B0;
+    padding: 15px;
+    border-radius: 8px;
+    position: relative;
+    z-index: -2;
+}
+.metodoFlex{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+}
+.metodoFlex h2:nth-child(2){
+    color: white;
+}
+.icone{
+    width: 100%;
+    max-width: 250px;
+    z-index: -1;
+}
+@media (max-width: 700px){
+    .icone{
+        display: none;
+    }
+}
+.card{
+    width: 100%;
+    max-width: 250px;
+    padding: 8px;
+    background-color: #FBAA00;
+    border-radius: 8px;
+}
+.card h2{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card h3{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card p{
+    padding-top: 5px;
+    text-align: justify;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.linha{
+    display: flex;
+    justify-content: center;
+}
+.linha .linhaAlth{
+    text-align: center;
+    justify-content: center;
+    background-color: #9A57B0;
+    width: 20px;
+    height: 150px;
+}
+
+.icone2{
+    position: absolute;
+    right: -40px;
+    bottom: -150px;
+    transform: rotate(115deg);
+}
+.icone1{
+    position: absolute;
+    bottom: -150px;
+    left: -40px;
+    transform: rotate(-115deg);
+}
+/* The end */
+
+
+/* Start Ligue */
+
+.realizeSonho{
+    position: relative;
+    text-align: center;
+    background-color: #003366;
+    padding: 15px;
+    height: 1000px;
+}
+.imagemRealize{
+    width: 100%;
+    max-width: 500px;
+    padding-top: 17%;
+}
+.absoluteBox{
+    position: absolute;
+    right: 34%;
+    top: 0%;
+}
+.absoluteBox p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+.absoluteBox h2{
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+  text-shadow: 1px 1px 8px black;
+}
+
+
+.button{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 27px;
+    position: absolute;
+    bottom: 24%;
+    right: 33%;
+    border-radius: 8px;
+    max-width: 150px;
+}
+.button:hover{
+    box-shadow: 0px 0px 2px 2px white;
+    transition: .3s;
+}
+.tel{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    bottom: 13.6%;
+    right: 30%;
+}
+/* The end */
+
+/* Start Footer */
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    gap: 5px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+.imgRedes{
+    width: 100%;
+    max-width: 30px;
+}
+.RedesBlock{
+    max-width: 240px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex-grow: 1;
+}
+.cardRedes{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-grow: 1;
+}
+.BlockEndress{
+    max-width: 240px;
+    padding: 5px;
+    flex-grow: 1;
+}
+.BlockEndress p:first-of-type{
+    text-align: center;
+    padding-bottom: 8px;
+}
+.home{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+.sobre1{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    padding: 2px;
+}
+.plano{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}

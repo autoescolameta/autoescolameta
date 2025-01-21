@@ -1,0 +1,1660 @@
+/* Descktop and tablet */
+
+@media(min-width: 838px) and (max-width: 950px)
+{
+    section{
+        padding: 15px;
+    }
+    .icone{
+        display: none;
+    }
+    .metodoFlex h2{
+        padding-bottom: 15px;
+    }
+    .absoluteBox{
+        right: 35%;
+        font-size: xx-large;
+    }
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        top: 15%;
+        font-size: xx-large;
+    }
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 25.5%;
+        right: 30%;
+    }
+    .tel{
+        bottom: 15%;
+        right: 28%;
+    }
+}
+
+@media(min-width: 750px) and (max-width: 838px){
+    section{
+        padding: 15px;
+    }
+    .icone{
+        display: none;
+    }
+    .metodoFlex h2{
+        padding-bottom: 15px;
+    }
+    .absoluteBox{
+        right: 35%;
+        font-size: xx-large;
+    }
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        top: 15%;
+        font-size: xx-large;
+    }
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 28%;
+        right: 25%;
+    }
+    .tel{
+        bottom: 16.5%;
+        right: 25%;
+    }
+}
+@media (min-width: 700px) and (max-width: 750px){
+    section{
+        padding: 15px;
+    }
+    .icone{
+        display: none;
+    }
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        top: 15%;
+        font-size: xx-large;
+    }
+    .boxAbsolute h2{}
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 29%;
+        right: 27%;
+    }
+    .tel{
+        bottom: 18%;
+        right: 22%;
+    }
+    .absoluteBox{
+        right: 29%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 636px) and (max-width: 700px){
+    section{
+        padding: 15px;
+    }
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        top: 15%;
+        font-size: xx-large;
+    }
+    .boxAbsolute h2{}
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 30%;
+        right: 22%;
+    }
+    .tel{
+        bottom: 19%;
+        right: 20%;
+    }
+    .absoluteBox{
+        right: 25%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 636px){
+    section{
+        padding: 15px;
+    }
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        max-width: 350px;
+    }
+    .boxAbsolute h2{}
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 31%;
+        right: 20%;
+    }
+    .tel{
+        bottom: 15%;
+        right: 15%;
+    }
+    .absoluteBox{
+        right: 25%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 452px) and (max-width: 549px){
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        max-width: 350px;
+    }
+    .boxAbsolute h2{}
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 35%;
+        right: 15%;
+    }
+    .tel{
+        bottom: 22%;
+        right: 12%;
+    }
+    .absoluteBox{
+        right: 20%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+@media (min-width: 510px) and (max-width: 527px){
+    .boxAbsolute{
+        right: auto;
+        left: 0;
+        max-width: 350px;
+    }
+    .boxAbsolute h2{}
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .button{
+        bottom: 35%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .tel{
+        bottom: 23.5%;
+        right: 12%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 20%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+@media (min-width: 503px) and (max-width: 510px){
+    .button{
+        bottom: 35%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .boxAbsolute p{
+        font-size: x-large;
+    }
+    .tel{
+        bottom: 26%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 29%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 498px) and (max-width: 510px){
+    .button{
+        bottom: 35%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .boxAbsolute{
+        right: auto !important;
+        left: 0;
+        max-width: 350px;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .tel{
+        bottom: 26%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 18%;
+    }
+    .absoluteBox h2{
+        font-size: 45px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 494px){
+    .boxAbsolute{
+        max-width: 353px;
+        right: auto;
+        left: 0;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .absoluteBox{
+        right: 18% !important;
+    }
+    .absoluteBox p{
+        font-size: 30px;
+    }
+    .absoluteBox h2{
+        font-size: 45px;
+    }
+    .button{
+        bottom: 39%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .tel{
+        bottom: 28%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 29%;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 470px) and (max-width: 482px){
+    section{
+        width: 100%;
+    }
+    .button{
+        bottom: 40%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .boxAbsolute{
+        max-width: 353.5px;
+        right: auto;
+        left: 0;
+    }
+    .logo{
+        max-width: 80px;
+    }
+    .tel{
+        bottom: 30%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 29%;
+    }
+    .absoluteBox h2{
+        font-size: 55px;
+    }
+    .absoluteBox p{
+        font-size: 30px;
+        text-align: center;
+    }
+}
+@media (min-width: 460px) and (max-width: 470px){
+    .button{
+        bottom: 41%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .tel{
+        bottom: 32%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        right: 25%;
+    }
+    .absoluteBox h2{
+        font-size: 55px;
+    }
+    .absoluteBox p{
+        font-size: 30px;
+        text-align: center;
+    }
+}
+@media (min-width: 450px) and (max-width: 460px){
+    .logo{
+        width: 100%;
+        max-width: 80px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        left: 0;
+        right: 0;
+        position: absolute;
+    }
+    .button{
+        bottom: 42%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .tel{
+        bottom: 33%;
+        right: 15%;
+        font-size: x-large;
+    }
+    .absoluteBox{
+        font-size: 12px;
+        right: 15%;
+        position: absolute;
+    }
+    .absoluteBox h2{
+        font-size: 9px;
+    }
+    .absoluteBox p{
+        font-size: 10px;
+    }
+    .absoluteBox h2{
+        font-size: 86px;
+    }
+    .absoluteBox p{
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+
+
+
+/* Mobile 400 and 500 */
+@media (min-width: 400px) and (max-width: 452px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+    }
+    .banner{
+        max-width: 452px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        top: 18%;
+        left: auto;
+        right: auto;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        top: 1%;
+        right: 40%;
+        font-size: 15px;
+    }
+    .absoluteBox h2{
+        font-size: 45px;
+    }
+    .absoluteBox p{
+        font-size: 25px;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 600px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 28%;
+        right: 38%;
+    }
+    .tel{
+        font-size: medium;
+        bottom: 18.5%;
+        right: 33%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 400px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 380px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        left: 0px;
+        right: 0;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 25%;
+        right: 27%;
+    }
+    .tel{
+        font-size: medium;
+        bottom: 16.5%;
+        right: 20%;
+    }
+    footer{
+        width: 100%;
+        max-width: 100%;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 337px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 337px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        top: 15px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: wrap;
+        max-width: 100%;
+        gap: 2px;
+    }
+    header h3{
+        font-size: 15px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 26%;
+        right: 22%;
+    }
+    .tel{
+        font-size: medium;
+        bottom: 16.5%;
+        right: 17%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 322px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 322px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 15px;
+        top: 18px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+        gap: 5px;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 28%;
+        right: 22%;
+    }
+    .tel{
+        font-size: medium;
+        bottom: 18.4%;
+        right: 15%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 317px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 317px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 15px;
+        top: 15px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 28.9%;
+        right: 20%;
+    }
+    .tel{
+        font-size: medium;
+        bottom:19%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 307px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: medium;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 307px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 14px;
+        top: 12px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: medium;
+        max-width: 80px;
+        bottom: 30%;
+        right: 20%;
+    }
+    .tel{
+        font-size: medium;
+        bottom: 21.5%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 297px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 14px;
+        font-family: sans-serif;
+    }
+    .banner{
+        max-width: 297px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 13px;
+        top: 12px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        width: 100%;
+        gap: 5px;
+    }
+    header h3{
+        font-size: medium;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 32%;
+        right: 18%;
+    }
+    .tel{
+        font-size: 14px;
+        bottom: 24.5%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 285px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 12px;
+        font-family: sans-serif;
+    }
+    .banner{
+        max-width: 285px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 13px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        width: 100%;
+        gap: 5;
+    }
+    header h3{
+        font-size: 12px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 34%;
+        right: 18%;
+    }
+    .tel{
+        font-size: 14px;
+        bottom: 26%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 273px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 10px;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 273px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 12px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+    header h3{
+        font-size: 12px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 36%;
+        right: 13%;
+    }
+    .tel{
+        font-size: 14px;
+        bottom: 28%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 263px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 12px;
+        font-family: sans-serif;
+    }
+    .banner{
+        max-width: 263px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 12px;
+        top: 12px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+        gap: 5px;
+    }
+    header h3{
+        font-size: 12px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 38%;
+        right: 15%;
+    }
+    .tel{
+        font-size: 14px;
+        bottom: 30.5%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 254px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 10px;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 254px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 12px;
+        top: 12px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+        gap: 3px;
+    }
+    header h3{
+        font-size: 13px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 40%;
+        right: 15%;
+    }
+    .tel{
+        font-size: 14px;
+        bottom: 33%;
+        right: 12%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 245px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 10px;
+        font-family: sans-serif;
+        gap: 2px;
+    }
+    .banner{
+        max-width: 245px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 12px;
+        top: 14px;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+    header h3{
+        font-size: 10px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 38%;
+        right: 13%;
+    }
+    .tel{
+        font-size: 12px;
+        bottom: 30%;
+        right: 15%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 232px){
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 10px;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 230px;
+    }
+    .boxAbsolute{
+        max-width: 
+        250px;
+        font-size: 12px;
+        top: 0;
+        left: auto;
+        right: auto;
+        position: absolute;
+    }
+    .boxAbsolute p:first-of-type{
+        max-width: 
+        100px;
+        font-size: 12px;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+        gap: 2px;
+    }
+    header h3{
+        font-size: 12px;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 39%;
+        right: 11%;
+    }
+    .tel{
+        font-size: 11px;
+        bottom: 32.5%;
+        right: 15%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 224px){
+    header{
+        flex-wrap: nowrap;
+        width: 100%;
+        gap: 5px;
+    }
+    header h3{
+        font-size: 10px;
+    }
+    .logo{
+        width: 100%;
+        max-width: 50px;
+    }
+    .link{
+        padding: 2px;
+        font-size: 9px;
+        font-family: sans-serif;
+        gap: 8px;
+    }
+    .banner{
+        max-width: 200px;
+    }
+    .boxAbsolute{
+        max-width: 
+        220px;
+        top: 4%;
+        left: auto;
+        right: auto;
+        position: absolute;
+        font-size: 10px;
+    }
+    .relativeBox{
+        width: 100%;
+    }
+    section{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+    .absoluteBox{
+        position: static;
+        font-size: 25px;
+        padding: 0;
+    }
+    .metodoFlex h2{
+        padding-bottom: 12px;
+        flex-wrap: nowrap;
+    }
+     .imagemRealize{
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+        padding: 0;
+     }
+     img{
+        display: block;
+        margin: 0;
+        padding: 0;
+     }
+    .realizeSonho{
+        height: 650px;
+    }
+    .button{
+        padding: 5px;
+        font-size: 15px;
+        max-width: 80px;
+        bottom: 41%;
+        right: 9%;
+    }
+    .tel{
+        font-size: 11px;
+        bottom: 34%;
+        right: 14%;
+    }
+    footer{
+        width: 100%;
+        max-width: 360px;
+    }
+    .RedesBlock{
+        flex-grow: 
+        1;
+    }
+    .sobre{
+        max-width: 290px;
+        margin: 0 auto;
+    }
+}
