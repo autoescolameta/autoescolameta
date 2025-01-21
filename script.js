@@ -1,6 +1,12 @@
 const home = document.getElementById("home");
 const sobre = document.getElementById("sobres");
 const plano = document.getElementById("plano");
+const buttonok = document.getElementById("ok");
+const Mensagem = document.getElementById("mensagemAviso");
+
+buttonok.addEventListener("click", () =>{
+    Mensagem.style.display = "none"
+})
 
 home.classList.add("home")
 
