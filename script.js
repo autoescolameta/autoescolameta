@@ -5,8 +5,15 @@ const buttonok = document.getElementById("ok");
 const Mensagem = document.getElementById("mensagemAviso");
 
 buttonok.addEventListener("click", () =>{
-    Mensagem.style.display = "none"
+    localStorage.coockie = "sim";
+    Mensagem.style.display = "none";
 })
+
+if(localStorage.coockie == "sim"){
+    Mensagem.style.display = "none";
+} else{
+    Mensagem.style.display = "";
+}
 
 home.classList.add("home")
 

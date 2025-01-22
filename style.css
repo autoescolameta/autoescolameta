@@ -318,14 +318,42 @@ footer{
     padding: 5px;
     border: 1px solid black;
     display: inline;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.coockiea{
+    background-color: rgb(163, 163, 163);
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    display: inline;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.space{
+    padding-left: 3px;
+    padding-right: 3px;
 }
 .mensagem{
     display: flex;
     position: fixed;
-    bottom: 5px;
+    bottom: 0;
     padding: 10px;
     font-family: sans-serif;
     z-index: 2;
     width: 100%;
     background-color: white;
+    gap: 5px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@media(max-width: 400px){
+    .mensgs{
+        max-width: 250px;
+        text-align: justify;
+    }
+}
+.coockie{
+    width: 50px;
 }
